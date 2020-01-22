@@ -3,4 +3,5 @@
     <string name="title_home">Explore</string>
     <string name="title_dashboard">Messages</string>
     <string name="title_notifications">Me</string>
+    <string name="button">Button</string>
 </resources>
